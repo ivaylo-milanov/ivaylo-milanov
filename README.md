@@ -1,5 +1,7 @@
+![MasterHead](https://camo.githubusercontent.com/7aebe4a98d77003bcfaccb71ab39753b9ca94328808114e845a1f6cac3a09e2b/68747470733a2f2f7763732e75776f2e63612f7372732f75706c6f61642f62616e6e657266732e706e67)
 <h1 align="center">Hi 👋, I'm Ivaylo Milanov</h1>
 <h3 align="center">Building seamless digital solutions from UI elegance to database wizardry</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 - 🔭 I’m currently working on [MovieReview](https://github.com/Ivaylo-M/MovieReview)
 
