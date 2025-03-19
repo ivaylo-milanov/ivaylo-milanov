@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MovieReview](https://github.com/Ivaylo-M/MovieReview)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **OOP**
 
